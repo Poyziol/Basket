@@ -1,0 +1,53 @@
+🔍 Étapes pour lancer la bonne version :
+Appuie sur Win + R
+
+Colle l’une des deux commandes suivantes selon ton besoin :
+
+Pour ODBC 64 bits :
+
+makefile
+Copier
+Modifier
+C:\Windows\System32\odbcad32.exe
+Pour ODBC 32 bits :
+
+makefile
+Copier
+Modifier
+C:\Windows\SysWOW64\odbcad32.exe
+Une fois lancé, tu devrais voir trois onglets en haut :
+
+DSN utilisateur
+
+DSN système
+
+DSN fichier
+
+👉 C’est dans DSN système que tu dois cliquer sur "Ajouter" pour créer un DSN HFSQL.
+
+🧩 2. Le pilote HFSQL n’est peut-être pas encore installé
+➤ Si tu ne vois pas "HFSQL Client/Serveur" dans la liste des pilotes ODBC :
+Télécharge le pilote ODBC ici :
+👉 https://www.pcsoft.fr/hfsql/telecharger.htm
+
+Choisis "Pilote ODBC HFSQL Client/Serveur"
+
+Installe la version 32 ou 64 bits selon ton besoin.
+
+✅ Une fois le pilote installé :
+Relance odbcad32.exe (dans la bonne version).
+
+Tu verras "HFSQL Client/Serveur (PC SOFT)" dans la liste des pilotes.
+
+Crée ton DSN avec les paramètres :
+
+Serveur : 127.0.0.1 (ou IP de ton serveur)
+
+Port : 4900
+
+Utilisateur : abc
+
+Mot de passe : abc
+
+Base : sélectionne la bonne base HFSQL
+

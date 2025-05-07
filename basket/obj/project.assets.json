@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "System.Data.Odbc/9.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/System.Data.Odbc.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/System.Data.Odbc.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net9.0/System.Data.Odbc.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/net9.0/System.Data.Odbc.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Data.Odbc/9.0.4": {
+      "sha512": "fxBPK4Tq/0ZIBqwFKQCqUHli0fDuwIwr/u+J0wS9qtQTWxXvAT0xfhfybktCkm97zJ8FJVGS9IuSBsfMWxRjEw==",
+      "type": "package",
+      "path": "system.data.odbc/9.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Data.Odbc.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Data.Odbc.targets",
+        "lib/net462/System.Data.Odbc.dll",
+        "lib/net462/System.Data.Odbc.xml",
+        "lib/net8.0/System.Data.Odbc.dll",
+        "lib/net8.0/System.Data.Odbc.xml",
+        "lib/net9.0/System.Data.Odbc.dll",
+        "lib/net9.0/System.Data.Odbc.xml",
+        "lib/netstandard2.0/System.Data.Odbc.dll",
+        "lib/netstandard2.0/System.Data.Odbc.xml",
+        "runtimes/unix/lib/net8.0/System.Data.Odbc.dll",
+        "runtimes/unix/lib/net8.0/System.Data.Odbc.xml",
+        "runtimes/unix/lib/net9.0/System.Data.Odbc.dll",
+        "runtimes/unix/lib/net9.0/System.Data.Odbc.xml",
+        "runtimes/win/lib/net8.0/System.Data.Odbc.dll",
+        "runtimes/win/lib/net8.0/System.Data.Odbc.xml",
+        "runtimes/win/lib/net9.0/System.Data.Odbc.dll",
+        "runtimes/win/lib/net9.0/System.Data.Odbc.xml",
+        "system.data.odbc.9.0.4.nupkg.sha512",
+        "system.data.odbc.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "System.Data.Odbc >= 9.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JUDI\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\IT UNIVERSITY\\S4\\Prog Mr Tahina\\bbasket\\basket\\basket.csproj",
+      "projectName": "basket",
+      "projectPath": "D:\\IT UNIVERSITY\\S4\\Prog Mr Tahina\\bbasket\\basket\\basket.csproj",
+      "packagesPath": "C:\\Users\\JUDI\\.nuget\\packages\\",
+      "outputPath": "D:\\IT UNIVERSITY\\S4\\Prog Mr Tahina\\bbasket\\basket\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\JUDI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "dependencies": {
+          "System.Data.Odbc": {
+            "target": "Package",
+            "version": "[9.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

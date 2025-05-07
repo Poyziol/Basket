@@ -1,0 +1,44 @@
+d:\dotnet\basket\bin\Debug\net9.0-windows\basket.exe
+d:\dotnet\basket\bin\Debug\net9.0-windows\basket.deps.json
+d:\dotnet\basket\bin\Debug\net9.0-windows\basket.runtimeconfig.json
+d:\dotnet\basket\bin\Debug\net9.0-windows\basket.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\basket.pdb
+d:\dotnet\basket\bin\Debug\net9.0-windows\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.csproj.AssemblyReference.cache
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.GeneratedMSBuildEditorConfig.editorconfig
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.AssemblyInfoInputs.cache
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.AssemblyInfo.cs
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.csproj.CoreCompileInputs.cache
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.csproj.Up2Date
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.dll
+d:\dotnet\basket\obj\Debug\net9.0-windows\refint\basket.dll
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.pdb
+d:\dotnet\basket\obj\Debug\net9.0-windows\basket.genruntimeconfig.cache
+d:\dotnet\basket\obj\Debug\net9.0-windows\ref\basket.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\basket.exe
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\basket.deps.json
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\basket.runtimeconfig.json
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\basket.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\basket.pdb
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\System.Data.Odbc.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.csproj.AssemblyReference.cache
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.AssemblyInfoInputs.cache
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.AssemblyInfo.cs
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.csproj.CoreCompileInputs.cache
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.csproj.Up2Date
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\refint\basket.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.pdb
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\basket.genruntimeconfig.cache
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\obj\Debug\net9.0-windows\ref\basket.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\System.Data.Odbc.dll
+D:\IT UNIVERSITY\S4\Prog Mr Tahina\bbasket\basket\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Data.Odbc.dll
